@@ -1,0 +1,4 @@
+location,quantity,archived_display,fresh_display,reason,color_rule
+Table 13 / Phase-II 10% calibration,CRCS targeted ASR (%),11.19,11.18,A03 seed33 10% calibration inductive CRCS fresh rerun,BLACK
+Table 13 / Phase-II 10% calibration,spectral-to-CRCS class-reference gain (pp),+1.80,+1.81,Derived from unchanged spectral ASR 12.99% and fresh CRCS ASR 11.18%,BLACK
+Figure 6 / Figure 7 / related Phase-II prose,10% calibration inductive CRCS ASR (%),11.19,11.18,Same verified Phase-II discrepant row propagated to displayed aggregate,BLACK

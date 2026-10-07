@@ -1,0 +1,60 @@
+cff-version: 1.2.0
+message: "If you use this software or the derived results, please cite this versioned repository and the associated article/manuscript."
+title: "Reproducibility package: cross-session calibration and backdoor robustness in EEG motor-imagery BCI (CRCS)"
+type: software
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-07"
+url: "https://github.com/ritesh2210/BCI-CRCS-Reproducibility"
+repository-code: "https://github.com/ritesh2210/BCI-CRCS-Reproducibility"
+
+keywords:
+  - brain-computer interface
+  - electroencephalography
+  - motor imagery
+  - calibration
+  - cross-session generalization
+  - backdoor attack
+  - adversarial robustness
+  - data poisoning
+  - reproducibility
+
+authors:
+  - family-names: Kushwaha
+    given-names: Ritesh Kumar
+    orcid: "https://orcid.org/0000-0002-5187-1514"
+    affiliation: "Department of Electronics and Communication Engineering, University Institute of Engineering, Chandigarh University, Gharuan, SAS Nagar, Punjab, India"
+  - family-names: Rajpoot
+    given-names: Vivek
+    orcid: "https://orcid.org/0000-0002-5347-5427"
+    affiliation: "Department of Communication Engineering, School of Electronics Engineering, Vellore Institute of Technology (VIT), Vellore, Tamil Nadu, India"
+  - family-names: Munjal
+    given-names: Meenakshi
+    orcid: "https://orcid.org/0000-0002-9837-0717"
+    affiliation: "Department of Electronics and Communication Engineering, Thapar Institute of Engineering and Technology, Patiala, Punjab, India"
+  - family-names: Dewangan
+    given-names: Niraj Kumar
+    orcid: "https://orcid.org/0000-0002-1001-4858"
+    affiliation: "Manipal Institute of Technology, Manipal Academy of Higher Education, Manipal, India"
+
+preferred-citation:
+  type: article
+  title: "Toward Deployable Brain-Computer Interfaces: A Computational Review and Cross-Session Study of Calibration, Generalization, and Security"
+  journal: "Archives of Computational Methods in Engineering"
+  year: 2026
+  authors:
+    - family-names: Kushwaha
+      given-names: Ritesh Kumar
+    - family-names: Rajpoot
+      given-names: Vivek
+    - family-names: Munjal
+      given-names: Meenakshi
+    - family-names: Dewangan
+      given-names: Niraj Kumar
+
+references:
+  - type: data
+    title: "BCI Competition IV Dataset 2a: four-class motor imagery"
+    notes: "Accessed through MOABB as BNCI2014_001; not redistributed in this repository."
+    url: "https://www.bbci.de/competition/iv/"
+    year: 2008

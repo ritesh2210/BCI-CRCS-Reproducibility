@@ -1,0 +1,43 @@
+{
+  "subjects": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "seeds": [
+    11,
+    22,
+    33,
+    44,
+    55
+  ],
+  "calibration_fractions": [
+    0.0,
+    0.1,
+    0.25,
+    0.5
+  ],
+  "fmin": 8.0,
+  "fmax": 30.0,
+  "target_class_name": "left_hand",
+  "poison_rate": 0.1,
+  "trigger_frequency_hz": 23.0,
+  "trigger_amplitude_std": 0.55,
+  "trigger_channels": [
+    "C3",
+    "Cz",
+    "C4"
+  ],
+  "csp_components": 8,
+  "sanitizer_z_threshold": 3.5,
+  "sanitizer_max_remove_fraction": 0.15,
+  "min_class_samples_after_sanitize": 8,
+  "transductive_target_alignment": true,
+  "output_dir": "/content/bci_security_full"
+}

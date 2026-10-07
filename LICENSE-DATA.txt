@@ -1,0 +1,25 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Ritesh Kumar Kushwaha, Vivek Rajpoot, Meenakshi Munjal,
+Niraj Kumar Dewangan
+
+Applies to the derived result files in this package: phase1_results/,
+phase2_results/, phase3_results/, and the dataset manifests.
+
+You are free to share and adapt this material for any purpose, including
+commercially, provided you give appropriate credit, provide a link to the
+license, and indicate if changes were made.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+IMPORTANT SCOPE NOTE
+--------------------
+This license covers only the DERIVED results computed by the authors. It does
+NOT extend to BCI Competition IV Dataset 2a, which is not redistributed in this
+package and remains subject to its own terms as published by Graz University of
+Technology / the BCI Competition IV organizers:
+
+    https://www.bbci.de/competition/iv/
+
+Users must obtain the benchmark separately, for example through MOABB
+(dataset identifier BNCI2014_001).

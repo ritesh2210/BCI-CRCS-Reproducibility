@@ -1,6 +1,9 @@
 MIT License
 
-Copyright (c) 2026 ritesh2210
+Copyright (c) 2026 Ritesh Kumar Kushwaha, Vivek Rajpoot, Meenakshi Munjal,
+Niraj Kumar Dewangan
+
+Applies to all source code in this package: notebooks/ and scripts/ (including scripts/verify_final_revision.py).
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

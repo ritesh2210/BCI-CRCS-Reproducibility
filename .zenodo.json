@@ -1,0 +1,44 @@
+{
+  "title": "Reproducibility package: cross-session calibration and backdoor robustness in EEG motor-imagery BCI (CRCS)",
+  "upload_type": "software",
+  "description": "<p>Code, configurations, derived result tables, subject-level outputs, publication-facing result figures, and revision-stage reproducibility audit supporting <em>Toward Deployable Brain–Computer Interfaces: A Computational Review and Cross-Session Study of Calibration, Generalization, and Security</em>.</p><p>The package contains Phase-I to Phase-III notebooks and extracted scripts, archived numerical result files, and explicit audit ledgers documenting the complete 6,075-row revision-stage rerun. The final audit is reported as a qualified reproduction: 6,066/6,075 rows reproduced completely, nine rows contained 34 numerical-field differences, and there were zero Phase-III discrepancies at the pre-specified 15% primary removal budget. The included PNGs are 600-dpi RGB publication-facing renderings generated from the released numerical result tables; the CSV/JSON files are the canonical numerical record.</p><p>BCI Competition IV Dataset 2a is not redistributed; it is accessed through MOABB as BNCI2014_001.</p>",
+  "creators": [
+    {
+      "name": "Kushwaha, Ritesh Kumar",
+      "orcid": "0000-0002-5187-1514",
+      "affiliation": "University Institute of Engineering, Chandigarh University, Gharuan, SAS Nagar, Punjab, India"
+    },
+    {
+      "name": "Rajpoot, Vivek",
+      "orcid": "0000-0002-5347-5427",
+      "affiliation": "School of Electronics Engineering, Vellore Institute of Technology (VIT), Vellore, Tamil Nadu, India"
+    },
+    {
+      "name": "Munjal, Meenakshi",
+      "orcid": "0000-0002-9837-0717",
+      "affiliation": "Thapar Institute of Engineering and Technology, Patiala, Punjab, India"
+    },
+    {
+      "name": "Dewangan, Niraj Kumar",
+      "orcid": "0000-0002-1001-4858",
+      "affiliation": "Manipal Institute of Technology, Manipal Academy of Higher Education, Manipal, India"
+    }
+  ],
+  "keywords": [
+    "brain-computer interface",
+    "electroencephalography",
+    "motor imagery",
+    "calibration",
+    "cross-session generalization",
+    "backdoor attack",
+    "data poisoning",
+    "adversarial robustness",
+    "reproducibility"
+  ],
+  "license": "mit",
+  "access_right": "open",
+  "version": "1.0.0",
+  "language": "eng",
+  "publication_date": "2026-10-07",
+  "notes": "Code is MIT licensed. Author-derived result tables and audit ledgers are CC BY 4.0. BCI Competition IV Dataset 2a is not redistributed. The retained notebooks and the independent revision-stage audit used the same pinned scientific-library versions but different Python 3.13 patch releases; this distinction is documented in README.md. The exact post-audit scientific supporting snapshot cited by the final manuscript is Git commit d99befd83ff256e9879e3eb87f6654deb205a1b4. The executed notebooks, numerical CSV/JSON outputs, revision-audit ledgers, and phase master scripts carried into this public release are unchanged from the corresponding audited artifacts. The 14 PNG result figures are publication-facing derivatives regenerated from those archived numerical tables with manuscript-aligned styling, RGB encoding, and 600-dpi output. Manuscript, reviewer, editor, journal-submission, and raw benchmark files are excluded."
+}

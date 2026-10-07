@@ -1,0 +1,77 @@
+{
+  "calibration_fractions": [
+    0.25,
+    0.5,
+    0.8
+  ],
+  "crcs_margin_threshold": 0.0,
+  "crcs_min_class_samples": 8,
+  "crcs_min_reference_per_class": 3,
+  "crcs_spectral_weight": 0.25,
+  "crcs_spectral_z_threshold": 2.5,
+  "crcs_subbands": [
+    [
+      8.0,
+      12.0
+    ],
+    [
+      12.0,
+      16.0
+    ],
+    [
+      16.0,
+      20.0
+    ],
+    [
+      20.0,
+      24.0
+    ],
+    [
+      24.0,
+      30.0
+    ]
+  ],
+  "csp_components": 8,
+  "fmax": 30.0,
+  "fmin": 8.0,
+  "poison_rates": [
+    0.05,
+    0.1,
+    0.15,
+    0.2
+  ],
+  "primary_removal_budget": 0.15,
+  "removal_budgets": [
+    0.05,
+    0.1,
+    0.15,
+    0.2,
+    0.25
+  ],
+  "seeds": [
+    11,
+    22,
+    33,
+    44,
+    55
+  ],
+  "subjects": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "target_class_name": "left_hand",
+  "trigger_amplitude_std": 0.55,
+  "trigger_channels": [
+    "C3",
+    "Cz",
+    "C4"
+  ],
+  "trigger_frequency_hz": 23.0
+}
